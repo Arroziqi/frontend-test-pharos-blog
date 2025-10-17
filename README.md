@@ -179,6 +179,12 @@ The server will run at `http://localhost:3000`
 
 ---
 
+## Acknowledgments
+
+- Design inspiration from [Figma Community](https://www.figma.com/community/file/1216616090937021365)
+
+---
+
 ## Author
 
 **Ahmad Arroziqi**
