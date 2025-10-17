@@ -16,10 +16,12 @@ export default function Home() {
   return (
     <>
       <CardHero
-        title={"Hello ini hero!Hello ini hero!Hello ini hero!Hello ini hero!"}
+        title={
+          "The Impact of Technology on the Workplace: How Technology is Changing"
+        }
         category={"technology"}
         description={
-          "This is a descriptionThis is a descriptionThis is a descriptionThis is a descriptionThis is a description"
+          "Exploring how technology is transforming the way we work and interact in modern workplaces."
         }
         date={"2021-01-01"}
         author={"Ahmad Arroziqi"}
