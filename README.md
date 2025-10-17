@@ -11,6 +11,10 @@ Frontend project for a simple blog using **Next.js**, **TypeScript**, and **MUI*
 
 ---
 
+## Demo
+
+🚀 [Frontend Test Pharos Blog](https://frontend-test-pharos-blog.vercel.app/)
+
 ## Table of Contents
 
 - [Tech Stack](#tech-stack)  
